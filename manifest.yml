@@ -2,3 +2,7 @@ applications:
 - name: node-hello-world
   memory: 128M
   buildpack: sdk-for-nodejs
+  
+- name: new-hello-world
+  memory: 128M
+  buildpack: sdk-for-nodejs
